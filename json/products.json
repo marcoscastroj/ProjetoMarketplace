@@ -1,0 +1,32 @@
+[
+    {
+        "img": "../img/images-removebg-preview.png",
+        "name":  "Monitor Gamer",
+        "price": "4.032,00"
+    },
+    {
+        "img": "../img/notebook-asus.png",
+        "name":  "Notebook Asus Gamer",
+        "price": "5.890,00"
+    },
+    {
+        "img": "../img/placa-de-video.png",
+        "name":  "Placa de Video",
+        "price": "1.000,00"
+    },
+    {
+        "img": "../img/notebook-gamer-lenovo-gaming-3.png",
+        "name":  "Notebook Lenovo Gaming",
+        "price": "1.250,00"
+    },
+    {
+        "img": "../img/smart-tv-samsung.png",
+        "name":  "Smartv Samsung",
+        "price": "1.500,00"
+    },
+    {
+        "img": "../img/Cadeira.png",
+        "name":  "Cadeira Gamer",
+        "price": "2.000,00"
+    }
+]
